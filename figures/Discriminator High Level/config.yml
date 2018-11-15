@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/Discriminator High Level/Discriminator High Level.png
+  - path: figures/Discriminator High Level/Architecture.png
     type: static
     from:
     - 1
@@ -16,6 +16,6 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/246441/articles/327603/master/file/figures/Discriminator%20High%20Level/Discriminator%20High%20Level.png"
     folder_url: "/users/246441/articles/327603/master/folder/figures/Discriminator
       High Level"
+    url: "/users/246441/articles/327603/master/file/figures/Discriminator%20High%20Level/Architecture.png"
