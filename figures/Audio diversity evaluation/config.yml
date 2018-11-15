@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Audio diversity evaluation/Audio diversity evaluation.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/246441/articles/327603/master/file/figures/Audio%20diversity%20evaluation/Audio%20diversity%20evaluation.png"
