@@ -19,6 +19,7 @@ figures/conditioning_evaluation_results
 figures/Audio Quality Evaluation
 v4pj434j43o.html
 figures/Audio diversity evaluation
+f7if7rdn1a8.html
 0bi49u5jn8g.html
 figures/Debris_real_waveform_lods
 figures/Debris_gen_waveform_lods
