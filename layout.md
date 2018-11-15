@@ -9,8 +9,8 @@ qof8tlh4lmo.html
 frpd7r24ku8.html
 4h7oijfer6.html
 figures/interpretability_baseline
-figures/Realism
 figures/interpretability_generated
+figures/Realism
 eqck8hbvnt8.html
 figures/Debris_real_waveform_lods
 figures/Debris_gen_waveform_lods
