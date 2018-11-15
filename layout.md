@@ -12,6 +12,8 @@ figures/interpretability_baseline
 figures/interpretability_generated
 figures/Realism
 eqck8hbvnt8.html
+figures/conditioning_evaluation_results
+0bi49u5jn8g.html
 figures/Debris_real_waveform_lods
 figures/Debris_gen_waveform_lods
 figures/Debris_spectrogram
