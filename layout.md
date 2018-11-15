@@ -12,6 +12,7 @@ figures/interpretability_baseline
 figures/interpretability_generated
 en7dq355k58.html
 figures/Realism
+6i5j9mhsij.html
 eqck8hbvnt8.html
 figures/conditioning_evaluation_results
 figures/Audio Quality Evaluation
