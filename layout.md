@@ -4,6 +4,7 @@ untitled.html
 8gg8uu5bpu.html
 q74a92kvsjo.html
 qof8tlh4lmo.html
+figures/Residual Block (2)
 40srpi6m73o.tex
 frpd7r24ku8.html
 4h7oijfer6.html
