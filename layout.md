@@ -14,6 +14,7 @@ figures/Realism
 eqck8hbvnt8.html
 figures/conditioning_evaluation_results
 figures/Audio Quality Evaluation
+figures/Audio diversity evaluation
 0bi49u5jn8g.html
 figures/Debris_real_waveform_lods
 figures/Debris_gen_waveform_lods
