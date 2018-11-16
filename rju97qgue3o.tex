@@ -3,7 +3,7 @@ We use WGAN-GP as our objective function [reference]. The original WGAN-GP formu
 \begin{equation}
 \underset{\tilde{x} \sim P_g}{\mathbb{E}}[D(\tilde{x})] - \underset{x \sim P_r}{\mathbb{E}}[D(x)] + \lambda \underset{\hat{x} \sim P_\hat{x}}{\mathbb{E}}[(\Vert \nabla_\hat{x} D(\hat{x}) \Vert_2 - 1)^2]
 \end{equation}
-
+Where 
 However, since we receive two outputs from our discriminator, the above equation needs to be modified as follows to incorporate the conditional and unconditional outputs:
 \begin{equation}
 \underset{\tilde{x} \sim P_g}{\mathbb{E}}[D(\tilde{x})] - \underset{x \sim P_r}{\mathbb{E}}[D(x)] + \lambda \underset{\hat{x} \sim P_\hat{x}}{\mathbb{E}}[(\Vert \nabla_\hat{x} D(\hat{x}) \Vert_2 - 1)^2]
