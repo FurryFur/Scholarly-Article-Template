@@ -26,4 +26,3 @@ figures/Debris_gen_waveform_lods
 figures/Debris_spectrogram
 tsk6kdjssog.html
 10bae.html
-figures/Residual Block (2)
