@@ -4,7 +4,6 @@ untitled.html
 8gg8uu5bpu.html
 q74a92kvsjo.html
 qof8tlh4lmo.html
-cch6j7gsqo.html
 figures/Discriminator High Level
 figures/Residual Block (2)
 40srpi6m73o.tex
