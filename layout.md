@@ -3,6 +3,7 @@ sherr3oku28.html
 untitled.html
 8gg8uu5bpu.html
 q74a92kvsjo.html
+42oh7davuo8.html
 qof8tlh4lmo.html
 figures/Discriminator High Level
 figures/Residual Block (2)
