@@ -5,6 +5,6 @@ We use WGAN-GP as our objective function [reference]. The original WGAN-GP formu
 \end{equation}
 Where $P_x$ is defined as the distribution formed from sampling uniformly along straight lines between pairs of points sampled from the data distribution $P_r$ and the generator distribution $P_g$. Since we expand our discriminator to have two outputs (conditional and unconditional) as in StackGAN [reference], the above equation needs to be modified to incorporate these separate outputs. Our formula then becomes:
 \begin{equation}
-\underset{\tilde{x} \sim P_g}{\mathbb{E}}[D(\tilde{x})] - \underset{x \sim P_r}{\mathbb{E}}[D(x)] + \lambda \underset{\hat{x} \sim P_\hat{x}}{\mathbb{E}}[(\Vert \nabla_\hat{x} D(\hat{x}) \Vert_2 - 1)^2]
+\underset{\tilde{x} \sim P_g}{\mathbb{E}}[D(\tilde{x})] - \underset{x \sim P_r}{\mathbb{E}}[D(x)] + \lambda \underset{\hat{x} \sim P_\hat{x}}{\mathbb{E}}[(\Vert \nabla_\hat{x} D(\hat{x}) \Vert_2 - 1)^2]\\
 \underset{\tilde{x} \sim P_g}{\mathbb{E}}[D(\tilde{x})] - \underset{x \sim P_r}{\mathbb{E}}[D(x)] + \lambda \underset{\hat{x} \sim P_\hat{x}}{\mathbb{E}}[(\Vert \nabla_\hat{x} D(\hat{x}) \Vert_2 - 1)^2]
 \end{equation}
